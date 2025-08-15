@@ -12,5 +12,7 @@ This project showcases my work during the Excelerate internship.
 
 ![Dashboard Screenshot] 
 <p align="center">
-  <img src="D:\Excelerate-Data-Analyst-Project\Screenshots\dashboard.png" width="800">
+  <img src="https://github.com/manojz4/Excelerate-Data-Analyst-Project/blob/main/Screenshots/dashboard.png?raw=true" width="800">
 </p>
+
+https://github.com/manojz4/Excelerate-Data-Analyst-Project/blob/main/Screenshots/dashboard.png?raw=true
